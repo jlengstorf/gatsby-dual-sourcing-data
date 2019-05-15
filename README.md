@@ -4,7 +4,7 @@ This is a proof-of-concept to demonstrate how Gatsby themes + schema customizati
 
 ## How to run this repo
 
-```
+```sh
 # clone the repo and move into it
 git clone git@github.com:jlengstorf/gatsby-dual-sourcing-data.git
 cd gatsby-dual-sourcing-data/
