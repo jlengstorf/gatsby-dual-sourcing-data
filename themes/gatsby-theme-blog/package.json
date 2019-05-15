@@ -1,0 +1,24 @@
+{
+  "name": "gatsby-theme-blog",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby-adapter-blog-json": "*",
+    "gatsby-adapter-blog-mdx": "*"
+  },
+  "peerDependencies": {
+    "dotenv": "^8.0.0",
+    "gatsby": "^2.4.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "dotenv": "^8.0.0",
+    "gatsby": "^2.4.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "semantic-release": "^15.13.3",
+    "webpack-bundle-analyzer": "^3.0.3"
+  },
+  "main": "index.js"
+}

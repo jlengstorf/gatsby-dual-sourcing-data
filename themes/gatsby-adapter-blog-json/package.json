@@ -1,0 +1,24 @@
+{
+  "name": "gatsby-adapter-blog-json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "dotenv": "^8.0.0",
+    "gatsby": "^2.4.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "dotenv": "^8.0.0",
+    "gatsby": "^2.4.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "semantic-release": "^15.13.3",
+    "webpack-bundle-analyzer": "^3.0.3"
+  },
+  "dependencies": {
+    "gatsby-source-filesystem": "^2.0.33",
+    "gatsby-transformer-json": "^2.1.11"
+  }
+}
